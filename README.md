@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I participated in more than 10 projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/mamurof</h3>
 <p align="left">
 </p>
 
