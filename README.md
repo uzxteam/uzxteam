@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzxteam&label=Profile%20views&color=0e75b6&style=flat" alt="uzxteam" /> </p>
 
 
-- 🔭 I’m currently working on [BOTRONIX AI](https://auto.botronix.uz/)
+- 🔭 I’m currently working on [BOTRONIX AI](https://botronix.uz/)
 
 - 🌱 I’m currently learning **FLUTTER**
 
